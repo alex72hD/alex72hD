@@ -16,7 +16,7 @@
 - 💻 **Software Developer** con enfoque en el ecosistema **.NET**: C#, SQL Server, Azure, DevOps y APIs REST, con interfaces en **React** y **Blazor**.
 - 🎓 Estudiante de **Ingeniería de Sistemas** en el **Instituto Tecnológico Metropolitano (ITM)**, Colombia, cursando **8.º semestre**.
 - 🤖 Me interesan la **Inteligencia Artificial**, la **automatización de procesos (RPA)** y la **arquitectura de software**.
-- 🗄️ Me gustan el diseño de software, las bases de datos, los métodos numéricos y la optimización del rendimiento en TI.
+- 🗄️ Me gustan el diseño de software, las bases de datos,la optimización y el análisis e interpretación de datos.
 - 🌱 Siempre aprendiendo cosas nuevas.
 - 🔎 Abierto a **oportunidades laborales** en desarrollo de software.
 
