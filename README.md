@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=22&center=true&vCenter=true&width=700&height=60&lines=Software+Developer;C%23+%C2%B7+.NET+%C2%B7+SQL+Server+%C2%B7+Azure;DevOps+%C2%B7+REST+APIs+%C2%B7+React+%C2%B7+Blazor;Interesado+en+IA%2C+RPA+y+Arquitectura+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+en+el+ITM" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0047AB&style=plastic" alt="Visitas" height="25" />
-</p>
+
 
 ---
 
@@ -76,7 +74,6 @@
   <img alt="Arquitectura de Software" src="https://img.shields.io/badge/Arquitectura%20de%20Software-%23333333.svg?style=plastic&logo=diagramsdotnet&logoColor=white">
 </p>
 
----
 
 
 ---
