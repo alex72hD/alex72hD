@@ -29,7 +29,7 @@
 <p align="center">
   <a href="mailto:robinalexander544@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/alex72hD"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/robin-montoya-7b"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -78,24 +78,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<details><summary><h3>🔥 Racha de contribuciones</h3></summary>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight_duo" alt="Racha" /></p>
-
-</details>
-
-<details><summary><h3>💻 Estadísticas del perfil</h3></summary>
-
-<p align="center">
-  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
-  <img alt="Lenguajes principales" src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&langs_count=8&locale=es&theme=tokyonight&layout=compact" height="230px"/>
-</p>
-
-<p align="center"><b>Nota:</b> los lenguajes principales solo reflejan mi código público, no mi nivel de experiencia.</p>
-
-</details>
 
 ---
 
