@@ -1,23 +1,21 @@
 <h1 align="center">Hola 👋, soy Robin Montoya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">👨‍💻 Software Developer | C# · .NET · SQL Server · Azure · DevOps · REST APIs · React · Blazor</h3>
+<h3 align="center">👨‍💻 Desarrollador de Software | C# · .NET · SQL Server · Azure · DevOps · REST APIs · React · Blazor</h3>
 <p align="center">Interesado en IA, RPA y Arquitectura de Software</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=22&center=true&vCenter=true&width=700&height=60&lines=Software+Developer;C%23+%C2%B7+.NET+%C2%B7+SQL+Server+%C2%B7+Azure;DevOps+%C2%B7+REST+APIs+%C2%B7+React+%C2%B7+Blazor;Interesado+en+IA%2C+RPA+y+Arquitectura+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+en+el+ITM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=22&center=true&vCenter=true&width=700&height=60&lines=Desarrollador+de+Software;C%23+%C2%B7+.NET+%C2%B7+SQL+Server+%C2%B7+Azure;DevOps+%C2%B7+REST+APIs+%C2%B7+React+%C2%B7+Blazor;IA%2C+RPA+y+Arquitectura+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+en+el+ITM" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
 ## 🙋‍♂️ Sobre mí
 
-- 💻 **Software Developer** con enfoque en el ecosistema **.NET**: C#, SQL Server, Azure, DevOps y APIs REST, con interfaces en **React** y **Blazor**.
-- 🎓 Estudiante de **Ingeniería de Sistemas** en el **Instituto Tecnológico Metropolitano (ITM)**, Colombia, cursando **8.º semestre**.
-- 🤖 Me interesan la **Inteligencia Artificial**, la **automatización de procesos (RPA)** y la **arquitectura de software**.
-- 🗄️ Me gustan el diseño de software, las bases de datos,la optimización y el análisis e interpretación de datos.
-- 🌱 Siempre aprendiendo cosas nuevas.
+- 💻 Desarrollador de software enfocado en el ecosistema **.NET**: C#, SQL Server, Azure, DevOps y APIs REST, con interfaces en **React** y **Blazor**.
+- 🎓 Estudiante de **Ingeniería de Sistemas** en el **Instituto Tecnológico Metropolitano (ITM)**, Colombia, cursando 8.º semestre.
+- 🤖 Me interesan la **inteligencia artificial**, la **automatización de procesos (RPA)** y la **arquitectura de software**.
+- 🗄️ Disfruto el diseño de software, las bases de datos, la optimización y el análisis e interpretación de datos.
+- 🌱 En aprendizaje constante.
 - 🔎 Abierto a **oportunidades laborales** en desarrollo de software.
 
 ---
@@ -32,7 +30,7 @@
 
 ---
 
-## 🛠️ Mis habilidades
+## 🛠️ Habilidades
 
 ### Backend y datos
 <p align="center">
@@ -59,7 +57,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
 </p>
 
-### Herramientas e IDEs
+### Herramientas
 <p align="center">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=plastic&logo=visualstudio&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
@@ -74,26 +72,15 @@
   <img alt="Arquitectura de Software" src="https://img.shields.io/badge/Arquitectura%20de%20Software-%23333333.svg?style=plastic&logo=diagramsdotnet&logoColor=white">
 </p>
 
+---
+## 📈 Actividad en GitHub
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=alex72hD&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
-
----
-
 <p align="center">
   <img alt="Cita" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
-<!--
-**alex72hD/alex72hD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
